@@ -1,0 +1,2 @@
+# ChatServerPlayground
+Django app
